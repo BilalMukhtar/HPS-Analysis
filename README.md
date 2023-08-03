@@ -12,9 +12,6 @@ Determining the reasons why people who recieved at least one dose COVID-19 vacci
 * Created maps using folium to find the states with the largest difference between vaccination and booster rate
 * Displayed the reasons why people chose not to get the booster using bar graphs.
 
-The map below displays the difference in vaccine rate and booster rate across states
-[![f](https://github.com/BilalMukhtar/HPS-Analysis/blob/main/Maps/Vaccboostdiff.html)]
-
 ## Modeling
 Determing the most important predictors in determing why people do not get the booster.
 
