@@ -1,7 +1,7 @@
 # HPS-Analysis
 Utilizing vizualtion and modeling to understand booster rates
 
-All data was sourced from the Household Pulse Survey Week 46 (https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html)
+All data was sourced from the [Household Pulse Survey Week 46](https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html)
 * This data represents June 1st to June 13th 2022
 
 This is a combination of two different projects from BMIS 2542 (Data Programming Essentials with Python)
@@ -13,8 +13,7 @@ Determining the reasons why people who recieved at least one dose COVID-19 vacci
 * Displayed the reasons why people chose not to get the booster using bar graphs.
 
 The map below displays the difference in vaccine rate and booster rate across states
-![Alt text](Maps/Vaccboostdiff.html)
-<img src="Maps/Vaccboostdiff.html">
+[![f](https://github.com/BilalMukhtar/HPS-Analysis/blob/main/Maps/Vaccboostdiff.html)]
 
 ## Modeling
 Determing the most important predictors in determing why people do not get the booster.
